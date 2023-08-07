@@ -1,0 +1,11 @@
+names:
+- 'Protective Helmet'
+- 'shield'
+- 'Jacket'
+- 'Dust mask'
+- 'Eye wear'
+- 'Glove'
+- 'Protective Boots'
+nc: 7
+train: EEP_Detection-1/train/images
+val: EEP_Detection-1/valid/images
